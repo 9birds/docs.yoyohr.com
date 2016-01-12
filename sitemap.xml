@@ -2,207 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/setup.html</loc>
-    <lastmod>2016-01-12T03:28:34.141Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://docs.yoyohr.com/index.html</loc>
     <lastmod>2016-01-12T03:28:34.141Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/troubleshooting.html</loc>
+    <loc>http://docs.yoyohr.com/guide/migration.html</loc>
     <lastmod>2016-01-12T03:28:34.141Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/themes.html</loc>
+    <loc>http://docs.yoyohr.com/guide/variables.html</loc>
     <lastmod>2016-01-12T03:28:34.141Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/templates.html</loc>
+    <loc>http://docs.yoyohr.com/guide/troubleshooting.html</loc>
     <lastmod>2016-01-12T03:28:34.141Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/tag-plugins.html</loc>
+    <loc>http://docs.yoyohr.com/guide/themes.html</loc>
     <lastmod>2016-01-12T03:28:34.141Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/variables.html</loc>
+    <loc>http://docs.yoyohr.com/guide/templates.html</loc>
     <lastmod>2016-01-12T03:28:34.141Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/server.html</loc>
+    <loc>http://docs.yoyohr.com/guide/tag-plugins.html</loc>
     <lastmod>2016-01-12T03:28:34.141Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/plugins.html</loc>
+    <loc>http://docs.yoyohr.com/guide/setup.html</loc>
     <lastmod>2016-01-12T03:28:34.141Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/permalinks.html</loc>
+    <loc>http://docs.yoyohr.com/guide/server.html</loc>
     <lastmod>2016-01-12T03:28:34.141Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/migration.html</loc>
+    <loc>http://docs.yoyohr.com/guide/plugins.html</loc>
     <lastmod>2016-01-12T03:28:34.141Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/writing.html</loc>
+    <loc>http://docs.yoyohr.com/guide/permalinks.html</loc>
     <lastmod>2016-01-12T03:28:34.141Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/internationalization.html</loc>
+    <loc>http://docs.yoyohr.com/guide/writing.html</loc>
+    <lastmod>2016-01-12T03:28:34.141Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.yoyohr.com/guide/deployment.html</loc>
     <lastmod>2016-01-12T03:28:34.125Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/index.html</loc>
+    <loc>http://docs.yoyohr.com/guide/internationalization.html</loc>
     <lastmod>2016-01-12T03:28:34.125Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/helpers.html</loc>
+    <loc>http://docs.yoyohr.com/guide/helpers.html</loc>
     <lastmod>2016-01-12T03:28:34.125Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/generating.html</loc>
+    <loc>http://docs.yoyohr.com/guide/generating.html</loc>
     <lastmod>2016-01-12T03:28:34.125Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/front-matter.html</loc>
+    <loc>http://docs.yoyohr.com/guide/front-matter.html</loc>
     <lastmod>2016-01-12T03:28:34.125Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/deployment.html</loc>
+    <loc>http://docs.yoyohr.com/guide/index.html</loc>
     <lastmod>2016-01-12T03:28:34.125Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/data-files.html</loc>
+    <loc>http://docs.yoyohr.com/guide/data-files.html</loc>
     <lastmod>2016-01-12T03:28:34.125Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/contributing.html</loc>
+    <loc>http://docs.yoyohr.com/guide/contributing.html</loc>
     <lastmod>2016-01-12T03:28:34.125Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/configuration.html</loc>
+    <loc>http://docs.yoyohr.com/guide/configuration.html</loc>
     <lastmod>2016-01-12T03:28:34.125Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/commands.html</loc>
+    <loc>http://docs.yoyohr.com/guide/commands.html</loc>
     <lastmod>2016-01-12T03:28:34.125Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/docs/asset-folders.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/themes.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/tag.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/scaffolds.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/router.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/rendering.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/renderer.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/processor.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/posts.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/migrator.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/locals.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/index.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/helper.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/generator.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/filter.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/events.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/deployer.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/console.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/api/box.html</loc>
+    <loc>http://docs.yoyohr.com/guide/asset-folders.html</loc>
     <lastmod>2016-01-12T03:28:34.125Z</lastmod>
   </url>
   
