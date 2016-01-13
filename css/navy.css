@@ -125,9 +125,9 @@ select {
 }
 body {
   background: #171f26;
-  font-size: 15px;
+  font-size: 14px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #444;
+  color: #666;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -519,7 +519,7 @@ body {
 .toc-link {
   font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   display: block;
-  color: #444;
+  color: #666;
   text-decoration: none;
   padding: 7px 0;
   line-height: 1;
@@ -626,7 +626,7 @@ body {
   margin-top: 2em;
   font-size: 0.9em;
   text-decoration: none;
-  color: #444;
+  color: #666;
   display: block;
   margin-bottom: 40px;
   font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -651,7 +651,7 @@ body {
   font-size: 36px;
   font-weight: 300;
   text-decoration: none;
-  color: #444;
+  color: #666;
   -webkit-transition: 0.2s;
   -moz-transition: 0.2s;
   -ms-transition: 0.2s;
@@ -708,7 +708,7 @@ a.article-title:hover {
 }
 .article-content {
   line-height: 1.6em;
-  color: #444;
+  color: #666;
 }
 @media print {
   .article-content {
@@ -754,7 +754,7 @@ a.article-title:hover {
 }
 @media print {
   .article-content a {
-    color: #444;
+    color: #666;
     text-decoration: underline;
   }
   .article-content a:after {
@@ -1131,7 +1131,7 @@ a.article-title:hover {
 }
 .archive-post-link {
   display: block;
-  color: #444;
+  color: #666;
   text-decoration: none;
   line-height: 1.6em;
 }

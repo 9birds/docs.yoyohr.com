@@ -4,7 +4,7 @@
   <subtitle><![CDATA[A fast, simple & powerful blog framework powered by Node.js.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://docs.yoyohr.com/"/>
-  <updated>2016-01-13T01:54:11.462Z</updated>
+  <updated>2016-01-13T08:18:02.591Z</updated>
   <id>http://docs.yoyohr.com/</id>
   
   <author>
@@ -18,8 +18,8 @@
     <title><![CDATA[Hello World]]></title>
     <link href="http://docs.yoyohr.com/news/2016/01/13/hello-world/"/>
     <id>http://docs.yoyohr.com/news/2016/01/13/hello-world/</id>
-    <published>2016-01-13T01:54:11.462Z</published>
-    <updated>2016-01-13T01:54:11.462Z</updated>
+    <published>2016-01-13T08:18:02.591Z</published>
+    <updated>2016-01-13T08:18:02.591Z</updated>
     <content type="html"><![CDATA[<p>Hello World</p>
 ]]></content>
     <summary type="html">
