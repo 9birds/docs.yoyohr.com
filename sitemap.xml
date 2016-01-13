@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://docs.yoyohr.com/index.html</loc>
+    <lastmod>2016-01-13T11:00:10.093Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://docs.yoyohr.com/guide/talents.html</loc>
     <lastmod>2016-01-13T08:18:02.599Z</lastmod>
   </url>
@@ -37,23 +42,18 @@
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/guide/company.html</loc>
+    <loc>http://docs.yoyohr.com/guide/company_verify.html</loc>
     <lastmod>2016-01-13T08:18:02.592Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/guide/company_verify.html</loc>
+    <loc>http://docs.yoyohr.com/guide/company.html</loc>
     <lastmod>2016-01-13T08:18:02.592Z</lastmod>
   </url>
   
   <url>
     <loc>http://docs.yoyohr.com/news/2016/01/13/hello-world/</loc>
     <lastmod>2016-01-13T08:18:02.591Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/index.html</loc>
-    <lastmod>2016-01-12T07:19:26.058Z</lastmod>
   </url>
   
   <url>
