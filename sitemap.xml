@@ -2,128 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://docs.yoyohr.com/guide/talents.html</loc>
+    <lastmod>2016-01-13T08:18:02.599Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.yoyohr.com/guide/index.html</loc>
+    <lastmod>2016-01-13T08:18:02.595Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.yoyohr.com/guide/dashboard.html</loc>
+    <lastmod>2016-01-13T08:18:02.593Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.yoyohr.com/guide/company_verify.html</loc>
+    <lastmod>2016-01-13T08:18:02.592Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.yoyohr.com/news/2016/01/13/hello-world/</loc>
+    <lastmod>2016-01-13T01:54:11.462Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.yoyohr.com/guide/company.html</loc>
+    <lastmod>2016-01-13T01:13:52.022Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.yoyohr.com/guide/register.html</loc>
+    <lastmod>2016-01-13T01:13:52.022Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.yoyohr.com/guide/paper.html</loc>
+    <lastmod>2016-01-13T01:13:52.022Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.yoyohr.com/guide/notice.html</loc>
+    <lastmod>2016-01-13T01:13:52.022Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.yoyohr.com/guide/money.html</loc>
+    <lastmod>2016-01-13T01:13:52.022Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docs.yoyohr.com/test/index.html</loc>
+    <lastmod>2016-01-12T07:06:18.088Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://docs.yoyohr.com/index.html</loc>
     <lastmod>2016-01-12T03:28:34.141Z</lastmod>
   </url>
   
   <url>
-    <loc>http://docs.yoyohr.com/guide/migration.html</loc>
-    <lastmod>2016-01-12T03:28:34.141Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/variables.html</loc>
-    <lastmod>2016-01-12T03:28:34.141Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/troubleshooting.html</loc>
-    <lastmod>2016-01-12T03:28:34.141Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/themes.html</loc>
-    <lastmod>2016-01-12T03:28:34.141Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/templates.html</loc>
-    <lastmod>2016-01-12T03:28:34.141Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/tag-plugins.html</loc>
-    <lastmod>2016-01-12T03:28:34.141Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/setup.html</loc>
-    <lastmod>2016-01-12T03:28:34.141Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/server.html</loc>
-    <lastmod>2016-01-12T03:28:34.141Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/plugins.html</loc>
-    <lastmod>2016-01-12T03:28:34.141Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/permalinks.html</loc>
-    <lastmod>2016-01-12T03:28:34.141Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/writing.html</loc>
-    <lastmod>2016-01-12T03:28:34.141Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/deployment.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/internationalization.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/helpers.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/generating.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/front-matter.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/index.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/data-files.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/contributing.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/configuration.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/commands.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/guide/asset-folders.html</loc>
-    <lastmod>2016-01-12T03:28:34.125Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://docs.yoyohr.com/css/font-awesome.min.css</loc>
     <lastmod>2016-01-09T14:08:19.873Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://docs.yoyohr.com/news/2015/12/16/hello-world/</loc>
-    <lastmod>2015-12-16T01:43:22.723Z</lastmod>
   </url>
   
 </urlset>
