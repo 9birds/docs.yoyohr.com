@@ -1,31 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[优聘帮助中心]]></title>
-  <subtitle><![CDATA[A fast, simple & powerful blog framework powered by Node.js.]]></subtitle>
+  <title>优聘帮助中心</title>
+  <subtitle>A fast, simple &amp; powerful blog framework powered by Node.js.</subtitle>
   <link href="/atom.xml" rel="self"/>
+  
   <link href="http://docs.yoyohr.com/"/>
   <updated>2016-01-13T08:18:02.591Z</updated>
   <id>http://docs.yoyohr.com/</id>
   
   <author>
-    <name><![CDATA[yoyohr.com]]></name>
+    <name>yoyohr.com</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://docs.yoyohr.com/news/2016/01/13/hello-world/"/>
-    <id>http://docs.yoyohr.com/news/2016/01/13/hello-world/</id>
-    <published>2016-01-13T08:18:02.591Z</published>
+    <title>Hello World</title>
+    <link href="http://docs.yoyohr.com/news/2016/03/12/hello-world/"/>
+    <id>http://docs.yoyohr.com/news/2016/03/12/hello-world/</id>
+    <published>2016-03-12T05:38:13.642Z</published>
     <updated>2016-01-13T08:18:02.591Z</updated>
-    <content type="html"><![CDATA[<p>Hello World</p>
-]]></content>
+    
+    <content type="html">&lt;p&gt;Hello World&lt;/p&gt;
+</content>
+    
     <summary type="html">
-    <![CDATA[<p>Hello World</p>
-]]>
+    
+      &lt;p&gt;Hello World&lt;/p&gt;
+
+    
     </summary>
+    
     
   </entry>
   
