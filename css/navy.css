@@ -808,10 +808,10 @@ a.article-title:hover {
   max-width: 100%;
 }
 .article-content blockquote {
-  padding: 0 20px;
   position: relative;
-  border: 1px solid #e3e3e3;
-  border-left: 5px solid #ddd;
+}
+.article-content blockquote p {
+  padding: 0 25px;
 }
 .article-content blockquote footer {
   margin: 1em 0;
